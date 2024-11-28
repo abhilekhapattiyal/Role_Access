@@ -1,8 +1,8 @@
-Project-Role-Based Authentication and Access (MERN Stack)
-Overview
-This project implements a role-based authentication and access control system using the MERN stack (MongoDB, Express, React, Node.js). The system allows users to register, log in, and access certain parts of the application based on their assigned roles. Different roles (e.g., Admin, User) have varying levels of access to resources and functionality within the application. This approach helps ensure that sensitive data and features are only accessible to authorized users.
+#Project-Role-Based Authentication and Access (MERN Stack)
+<h3>Overview</h3>
+<p>This project implements a role-based authentication and access control system using the MERN stack (MongoDB, Express, React, Node.js). The system allows users to register, log in, and access certain parts of the application based on their assigned roles. Different roles (e.g., Admin, User) have varying levels of access to resources and functionality within the application. This approach helps ensure that sensitive data and features are only accessible to authorized users.</p>
 
-Features
+<h3>Features</h3>
 User Registration & Login: Users can register and log in to the system with their credentials.
 Role Assignment: Admins can assign different roles (e.g., Admin, User) to users.
 Role-Based Access Control (RBAC): Access to certain pages or features is restricted based on the user's role.
